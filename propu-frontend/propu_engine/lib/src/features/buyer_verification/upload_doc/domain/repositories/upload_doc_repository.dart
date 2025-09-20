@@ -1,0 +1,10 @@
+import 'package:dartz/dartz.dart';
+import 'package:propu_engine/propu_models.dart';
+import 'package:propu_engine/src/core/error/failures.dart';
+
+abstract class UploadDocRepository {
+
+  Future<Either<Failure, UploadDocResponse>> uploadDoc(
+      UploadDocRequest request,
+      );
+}

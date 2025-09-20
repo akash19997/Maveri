@@ -1,0 +1,93 @@
+name: propu_frontend
+description: "PropU Frontend APp"
+publish_to: "none"
+version: 1.0.1+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  propu_engine:
+    # git:
+    #   url: https://git-codecommit.af-south-1.amazonaws.com/v1/repos/propu_engine
+    #   ref: development
+    path: ./propu_engine
+  injectable: ^1.4.1
+  get_it: ^7.6.4
+  dio: ^4.0.0
+  freezed_annotation: ^2.0.3
+  fresh_dio: ^0.3.1
+  responsive_framework: ^0.2.0
+  shimmer: ^3.0.0
+  auto_route: ^7.8.4
+  footer: ^0.0.4
+  flutter_bloc: ^9.1.1
+  flutter_svg: ^2.1.0
+  smooth_page_indicator: ^1.2.1
+  number_paginator: ^1.1.0
+  retrofit: ^3.0.1+1
+  gradient_circular_progress_indicator: ^0.0.4
+  collection: ^1.17.0
+  cached_network_image: ^3.2.3
+  google_sign_in: ^6.3.0
+  introduction_screen: ^3.1.17
+  flutter_otp_text_field: ^1.5.1+1
+  pin_code_fields: ^8.0.1
+  image_picker: ^1.1.2
+  sign_in_with_apple: ^7.0.1
+  shared_preferences: ^2.2.2
+  table_calendar:
+  flutter_image_compress:
+  flutter_html:
+  photo_view: ^0.15.0
+  google_maps_flutter: ^2.12.3
+  flutter_typeahead: ^5.2.0
+  url_launcher:
+  booking_calendar:
+  jwt_decoder: ^2.0.1
+
+  # analyzer: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  freezed: ^2.0.3+1
+  retrofit_generator: ^4.0.1
+  build_runner: ^2.0.5
+  injectable_generator: ^1.5.2
+  lints: ^5.1.1
+  json_serializable: ^6.1.4
+  auto_route_generator: ^7.3.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/png/
+    - assets/images/svg/
+    - assets/images/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+  # example:
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: fonts/open-sans/OpenSans-Light.ttf
+          weight: 100
+        - asset: fonts/open-sans/OpenSans-Regular.ttf
+          weight: 400
+        - asset: fonts/open-sans/OpenSans-Medium.ttf
+          weight: 500
+        - asset: fonts/open-sans/OpenSans-SemiBold.ttf
+          weight: 600
+        - asset: fonts/open-sans/OpenSans-Bold.ttf
+          weight: 700
+        - asset: fonts/open-sans/OpenSans-ExtraBold.ttf
+          weight: 800

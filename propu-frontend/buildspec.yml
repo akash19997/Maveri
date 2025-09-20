@@ -1,0 +1,25 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Logging in to Amazon ECR...
+      - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
+  build:
+    commands:
+      - echo Building the Docker image on `date`
+      - docker build -t $IMAGE_REPO_NAME/$IMAGE_NAME .
+      - docker tag $IMAGE_REPO_NAME/$IMAGE_NAME:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME/$IMAGE_NAME:latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker image
+      - docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME/$IMAGE_NAME:$IMAGE_TAG
+      - echo "Stopping ECS service..."
+      - CURRENT_TASK_ID=$(aws ecs list-tasks --cluster $CLUSTER_NAME --service $SERVICE_NAME --desired-status RUNNING | egrep "task/" | sed -E "s/.*task\/(.*)\"/\1/")
+      - echo "Current task ID $CURRENT_TASK_ID"
+      - aws ecs stop-task --cluster $CLUSTER_NAME --task "${CURRENT_TASK_ID}"
+      - echo "Stopping ECS service with task ID " $CURRENT_TASK_ID
+      - echo "Updating ECS service and forcing new deployment"
+      - aws ecs update-service --cluster $CLUSTER_NAME --service $SERVICE_NAME --force-new-deployment
+      - echo "Service update initiated successfully"

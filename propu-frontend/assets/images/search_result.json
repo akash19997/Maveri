@@ -1,0 +1,1231 @@
+{
+  "results": [
+    {
+      "listing_id": "9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed",
+      "price": 0,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "stand_size": 30,
+      "floor_size": 28,
+      "suburb": "Jackal Creek Golf Estate",
+      "city": "Randburg",
+      "province": "Gauteng",
+      "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "dbccb469-0609-4df4-9f41-0fbd7c63f614",
+      "owner_id": "414ce278-6081-7011-3b8b-7f64e5ba4985",
+      "property_id": "16912505",
+      "reference_number": "PROP-20250717-5077",
+      "status": "published",
+      "current_step": 9,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "1",
+      "street_number": "209",
+      "street_name": "Boundary",
+      "complex_name": "SS WENTWORTH",
+      "unit_number": "40",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 1,
+      "has_outbuilding": false,
+      "predicted_value": 0,
+      "predicted_value_low": 0,
+      "predicted_value_high": 0,
+      "predicted_value_accuracy_score": 0,
+      "predicted_value_safety_score": 0,
+      "average_sale_price": 0,
+      "water_features": {
+        "watertank": false,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": false,
+        "gas_stove": false,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": false,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": false,
+        "electric_fence": false,
+        "cctv": false,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": false,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": [
+        "cute"
+      ],
+      "monthly_municipal_rates": 1500,
+      "monthly_sectional_levies": 2500,
+      "other_monthly_costs": 0,
+      "home_costs_notes": "",
+      "payment_status": "paid",
+      "payment_date": "2025-07-20 16:48:35.983083+00:00",
+      "payment_reference": "PAY-A30EE93A",
+      "subscription_type": "premium",
+      "subscription_amount": 599,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": {
+        "dates": [
+          "24 July 2025"
+        ],
+        "time_slots": [
+          "12:00 PM-05:00 PM"
+        ]
+      },
+      "created_date": "2025-07-17 11:53:59.254453+00:00",
+      "modified_date": "2025-07-20 16:48:35.979004+00:00",
+      "published_date": null,
+      "property_coordinates": [
+        20.9025,
+    74.7749
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+           20.9115, 74.7839
+          ],
+          [
+           20.8935, 74.7659
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "12fb32e2-0bbb-48df-9fe2-fd6b5cb1d10a",
+      "price": 0,
+      "bedrooms": -1,
+      "bathrooms": -1,
+      "stand_size": 0,
+      "floor_size": 0,
+      "suburb": "Ferndale",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "f8ba7ff5-2043-4467-8b91-a21a1aa7b142",
+      "owner_id": "414ce278-6081-7011-3b8b-7f64e5ba4985",
+      "property_id": "16360300",
+      "reference_number": "PROP-20250718-7740",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "2",
+      "street_number": "292",
+      "street_name": "Oak",
+      "complex_name": "SS ROYAL OAKS",
+      "unit_number": "4",
+      "floor": "",
+      "garages": -1,
+      "parking_spaces": -1,
+      "has_outbuilding": false,
+      "predicted_value": 0,
+      "predicted_value_low": 0,
+      "predicted_value_high": 0,
+      "predicted_value_accuracy_score": 0,
+      "predicted_value_safety_score": 0,
+      "average_sale_price": 0,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": true,
+        "solar_geyser": true,
+        "battery_backup": true,
+        "inverter": true
+      },
+      "security_features": {
+        "gated_community": false,
+        "electric_fence": false,
+        "cctv": false,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": false,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 0,
+      "monthly_sectional_levies": 0,
+      "other_monthly_costs": 0,
+      "home_costs_notes": null,
+      "payment_status": "pending",
+      "payment_date": null,
+      "payment_reference": null,
+      "subscription_type": null,
+      "subscription_amount": 0,
+      "valuation_payment_status": "pending",
+      "valuation_payment_amount": 0,
+      "viewing_schedule": null,
+      "created_date": "2025-07-18 15:17:25.061706+00:00",
+      "modified_date": "2025-07-18 15:27:18.149142+00:00",
+      "published_date": null,
+      "property_coordinates": [
+        28.001267,
+        -26.095772
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.011267,
+            -26.085772
+          ],
+          [
+            27.991266999999997,
+            -26.105772
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-001",
+      "price": 1010000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "stand_size": 410,
+      "floor_size": 85,
+      "suburb": "Suburb 1",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "seller-1",
+      "owner_id": "owner-1",
+      "property_id": "16360301",
+      "reference_number": "PROP-20250718-7701",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "2",
+      "street_number": "101",
+      "street_name": "Street 1",
+      "complex_name": "Complex 1",
+      "unit_number": "1A",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 1,
+      "has_outbuilding": false,
+      "predicted_value": 1051000,
+      "predicted_value_low": 1001000,
+      "predicted_value_high": 1101000,
+      "predicted_value_accuracy_score": 71,
+      "predicted_value_safety_score": 61,
+      "average_sale_price": 1021000,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 510,
+      "monthly_sectional_levies": 1020,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF001",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.001,
+        -26.001
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.011000000000003,
+            -26.011000000000003
+          ],
+          [
+            27.991,
+            -26.111
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-002",
+      "price": 1020000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "stand_size": 420,
+      "floor_size": 90,
+      "suburb": "Suburb 2",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": true,
+      "is_favorite": false,
+      "seller_id": "seller-2",
+      "owner_id": "owner-2",
+      "property_id": "16360302",
+      "reference_number": "PROP-20250718-7702",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "3",
+      "street_number": "102",
+      "street_name": "Street 2",
+      "complex_name": "Complex 2",
+      "unit_number": "2A",
+      "floor": "",
+      "garages": 0,
+      "parking_spaces": 2,
+      "has_outbuilding": false,
+      "predicted_value": 1052000,
+      "predicted_value_low": 1002000,
+      "predicted_value_high": 1102000,
+      "predicted_value_accuracy_score": 72,
+      "predicted_value_safety_score": 62,
+      "average_sale_price": 1022000,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": true,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 520,
+      "monthly_sectional_levies": 1040,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF002",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.002,
+        -26.002
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.012,
+            -26.012
+          ],
+          [
+            27.991999999999997,
+            -26.112
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-003",
+      "price": 1030000,
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "stand_size": 430,
+      "floor_size": 95,
+      "suburb": "Suburb 3",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "seller-3",
+      "owner_id": "owner-3",
+      "property_id": "16360303",
+      "reference_number": "PROP-20250718-7703",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "1",
+      "street_number": "103",
+      "street_name": "Street 3",
+      "complex_name": "Complex 3",
+      "unit_number": "3A",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 0,
+      "has_outbuilding": false,
+      "predicted_value": 1053000,
+      "predicted_value_low": 1003000,
+      "predicted_value_high": 1103000,
+      "predicted_value_accuracy_score": 73,
+      "predicted_value_safety_score": 63,
+      "average_sale_price": 1023000,
+      "water_features": {
+        "watertank": false,
+        "pool": true,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 530,
+      "monthly_sectional_levies": 1060,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF003",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.003,
+        -26.003
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.013,
+            -26.013
+          ],
+          [
+            27.993,
+            -26.113
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-004",
+      "price": 1040000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "stand_size": 440,
+      "floor_size": 100,
+      "suburb": "Suburb 4",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": true,
+      "is_favorite": false,
+      "seller_id": "seller-4",
+      "owner_id": "owner-4",
+      "property_id": "16360304",
+      "reference_number": "PROP-20250718-7704",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "2",
+      "street_number": "104",
+      "street_name": "Street 4",
+      "complex_name": "Complex 4",
+      "unit_number": "4A",
+      "floor": "",
+      "garages": 0,
+      "parking_spaces": 1,
+      "has_outbuilding": false,
+      "predicted_value": 1054000,
+      "predicted_value_low": 1004000,
+      "predicted_value_high": 1104000,
+      "predicted_value_accuracy_score": 74,
+      "predicted_value_safety_score": 64,
+      "average_sale_price": 1024000,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": true,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 540,
+      "monthly_sectional_levies": 1080,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF004",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.004,
+        -26.004
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.014000000000003,
+            -26.014000000000003
+          ],
+          [
+            27.994,
+            -26.114
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-005",
+      "price": 1050000,
+      "bedrooms": 1,
+      "bathrooms": 3,
+      "stand_size": 450,
+      "floor_size": 105,
+      "suburb": "Suburb 5",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "seller-5",
+      "owner_id": "owner-5",
+      "property_id": "16360305",
+      "reference_number": "PROP-20250718-7705",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "3",
+      "street_number": "105",
+      "street_name": "Street 5",
+      "complex_name": "Complex 5",
+      "unit_number": "5A",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 2,
+      "has_outbuilding": false,
+      "predicted_value": 1055000,
+      "predicted_value_low": 1005000,
+      "predicted_value_high": 1105000,
+      "predicted_value_accuracy_score": 75,
+      "predicted_value_safety_score": 65,
+      "average_sale_price": 1025000,
+      "water_features": {
+        "watertank": false,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 550,
+      "monthly_sectional_levies": 1100,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF005",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.005,
+        -26.005
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.015,
+            -26.015
+          ],
+          [
+            27.994999999999997,
+            -26.115
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-006",
+      "price": 1060000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "stand_size": 460,
+      "floor_size": 110,
+      "suburb": "Suburb 6",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": true,
+      "is_favorite": false,
+      "seller_id": "seller-6",
+      "owner_id": "owner-6",
+      "property_id": "16360306",
+      "reference_number": "PROP-20250718-7706",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "1",
+      "street_number": "106",
+      "street_name": "Street 6",
+      "complex_name": "Complex 6",
+      "unit_number": "6A",
+      "floor": "",
+      "garages": 0,
+      "parking_spaces": 0,
+      "has_outbuilding": false,
+      "predicted_value": 1056000,
+      "predicted_value_low": 1006000,
+      "predicted_value_high": 1106000,
+      "predicted_value_accuracy_score": 76,
+      "predicted_value_safety_score": 66,
+      "average_sale_price": 1026000,
+      "water_features": {
+        "watertank": true,
+        "pool": true,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": true,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 560,
+      "monthly_sectional_levies": 1120,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF006",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.006,
+        -26.006
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.016000000000002,
+            -26.016000000000002
+          ],
+          [
+            27.996,
+            -26.116
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-007",
+      "price": 1070000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "stand_size": 470,
+      "floor_size": 115,
+      "suburb": "Suburb 7",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "seller-7",
+      "owner_id": "owner-7",
+      "property_id": "16360307",
+      "reference_number": "PROP-20250718-7707",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "2",
+      "street_number": "107",
+      "street_name": "Street 7",
+      "complex_name": "Complex 7",
+      "unit_number": "7A",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 1,
+      "has_outbuilding": false,
+      "predicted_value": 1057000,
+      "predicted_value_low": 1007000,
+      "predicted_value_high": 1107000,
+      "predicted_value_accuracy_score": 77,
+      "predicted_value_safety_score": 67,
+      "average_sale_price": 1027000,
+      "water_features": {
+        "watertank": false,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 570,
+      "monthly_sectional_levies": 1140,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF007",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.007,
+        -26.007
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.017000000000003,
+            -26.017000000000003
+          ],
+          [
+            27.997,
+            -26.117
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-008",
+      "price": 1080000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "stand_size": 480,
+      "floor_size": 120,
+      "suburb": "Suburb 8",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": true,
+      "is_favorite": false,
+      "seller_id": "seller-8",
+      "owner_id": "owner-8",
+      "property_id": "16360308",
+      "reference_number": "PROP-20250718-7708",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "3",
+      "street_number": "108",
+      "street_name": "Street 8",
+      "complex_name": "Complex 8",
+      "unit_number": "8A",
+      "floor": "",
+      "garages": 0,
+      "parking_spaces": 2,
+      "has_outbuilding": false,
+      "predicted_value": 1058000,
+      "predicted_value_low": 1008000,
+      "predicted_value_high": 1108000,
+      "predicted_value_accuracy_score": 78,
+      "predicted_value_safety_score": 68,
+      "average_sale_price": 1028000,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": true,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 580,
+      "monthly_sectional_levies": 1160,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF008",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.008,
+        -26.008
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.018,
+            -26.018
+          ],
+          [
+            27.997999999999998,
+            -26.118
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-009",
+      "price": 1090000,
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "stand_size": 490,
+      "floor_size": 125,
+      "suburb": "Suburb 9",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": false,
+      "is_favorite": false,
+      "seller_id": "seller-9",
+      "owner_id": "owner-9",
+      "property_id": "16360309",
+      "reference_number": "PROP-20250718-7709",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "1",
+      "street_number": "109",
+      "street_name": "Street 9",
+      "complex_name": "Complex 9",
+      "unit_number": "9A",
+      "floor": "",
+      "garages": 1,
+      "parking_spaces": 0,
+      "has_outbuilding": false,
+      "predicted_value": 1059000,
+      "predicted_value_low": 1009000,
+      "predicted_value_high": 1109000,
+      "predicted_value_accuracy_score": 79,
+      "predicted_value_safety_score": 69,
+      "average_sale_price": 1029000,
+      "water_features": {
+        "watertank": false,
+        "pool": true,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": false,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 590,
+      "monthly_sectional_levies": 1180,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF009",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.009,
+        -26.009
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.019000000000002,
+            -26.019000000000002
+          ],
+          [
+            27.999,
+            -26.119
+          ]
+        ]
+      ]
+    },
+    {
+      "listing_id": "listing-010",
+      "price": 1100000,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "stand_size": 500,
+      "floor_size": 130,
+      "suburb": "Suburb 10",
+      "city": "Randburg",
+      "province": "Gauteng",
+     "headline_image": "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/5b030d0a-ab4d-4362-ad8e-8bc5e62dc47d.jpg",
+      "images": [
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/a14f60aa-e6fd-4dab-994c-4f4f2a990368.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/b2aed428-0f5c-4002-8400-156808700d9c.jpg",
+        "https://propu-property.s3.af-south-1.amazonaws.com/listings/9f1d5f17-dcfd-4481-9e71-4ae4bc82bbed/23120e47-4d06-4c84-adb8-7ebae5dce3ba.jpg"
+      ],
+      "is_pre_approved": true,
+      "is_favorite": false,
+      "seller_id": "seller-10",
+      "owner_id": "owner-10",
+      "property_id": "16360310",
+      "reference_number": "PROP-20250718-7710",
+      "status": "published",
+      "current_step": 7,
+      "total_steps": 15,
+      "is_locked": false,
+      "property_type": "2",
+      "street_number": "110",
+      "street_name": "Street 10",
+      "complex_name": "Complex 10",
+      "unit_number": "10A",
+      "floor": "",
+      "garages": 0,
+      "parking_spaces": 1,
+      "has_outbuilding": false,
+      "predicted_value": 1060000,
+      "predicted_value_low": 1010000,
+      "predicted_value_high": 1110000,
+      "predicted_value_accuracy_score": 80,
+      "predicted_value_safety_score": 70,
+      "average_sale_price": 1030000,
+      "water_features": {
+        "watertank": true,
+        "pool": false,
+        "borewell": false
+      },
+      "energy_features": {
+        "gas_geyser": true,
+        "gas_stove": true,
+        "solar_panels": false,
+        "solar_geyser": false,
+        "battery_backup": true,
+        "inverter": false
+      },
+      "security_features": {
+        "gated_community": true,
+        "electric_fence": false,
+        "cctv": true,
+        "armed_response": false,
+        "motion_detection": false,
+        "beams": false
+      },
+      "connectivity_features": {
+        "wifi": true,
+        "fiberInternet": true,
+        "satelite": false
+      },
+      "unique_features": null,
+      "monthly_municipal_rates": 600,
+      "monthly_sectional_levies": 1200,
+      "other_monthly_costs": 100,
+      "home_costs_notes": null,
+      "payment_status": "paid",
+      "payment_date": "2025-07-20",
+      "payment_reference": "REF010",
+      "subscription_type": "basic",
+      "subscription_amount": 199,
+      "valuation_payment_status": "paid",
+      "valuation_payment_amount": 499,
+      "viewing_schedule": null,
+      "created_date": "2025-07-20T08:00:00Z",
+      "modified_date": "2025-07-20T09:00:00Z",
+      "published_date": "2025-07-20T10:00:00Z",
+      "property_coordinates": [
+        28.01,
+        -26.01
+      ],
+      "neighbour_coordinates": [
+        [
+          [
+            28.020000000000003,
+            -26.020000000000003
+          ],
+          [
+            28.0,
+            -26.12
+          ]
+        ]
+      ]
+    }
+  ],
+  "pagination": {
+    "total_results": 11,
+    "total_pages": 2,
+    "current_page": 1,
+    "page_size": 10
+  },
+  "context": "Viewing 1-10 of 11 listings",
+  "filters_applied": {
+    "locations": [
+      "Ferndale"
+    ],
+    "price_range": null,
+    "property_types": null,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "parking": 1,
+    "sizes": 2,
+    "features": null,
+    "sort_by": "newest"
+  }
+}

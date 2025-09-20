@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640722495013",
+    "project_id": "propu-93da3",
+    "storage_bucket": "propu-93da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640722495013:android:ecad68fb9c6fca708f41cc",
+        "android_client_info": {
+          "package_name": "com.propu.co.za"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmnk4zvxUdanWVn2Bbl-cnfc_Ynd0Ph8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

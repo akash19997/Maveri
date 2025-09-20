@@ -1,0 +1,24 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.5 9.51733H22.5" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0391 9.51733C20.0947 12.0992 19.378 17.263 16.0661 17.263C14.1288 17.263 9.74522 17.263 7.70915 17.263C5.16407 17.263 3.73555 14.0951 3.73555 9.51733" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M17.3086 19.1882L16.2603 17.3723" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M6.55732 19.1882L7.60571 17.3723" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<mask id="mask0_3550_4698" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="4" width="13" height="6">
+<rect width="11.8854" height="4.69138" transform="matrix(1 0 0 -1 8.4093 9.50342)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_3550_4698)">
+<circle cx="11.4831" cy="8.85187" r="2.13703" fill="black"/>
+</g>
+<mask id="mask1_3550_4698" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="4" width="13" height="6">
+<rect width="11.8854" height="4.69138" transform="matrix(1 0 0 -1 8.4093 9.50342)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_3550_4698)">
+<circle cx="14.2641" cy="10.3593" r="2.59078" fill="black"/>
+</g>
+<mask id="mask2_3550_4698" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="4" width="13" height="6">
+<rect width="11.8854" height="4.69138" transform="matrix(1 0 0 -1 8.4093 9.50342)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_3550_4698)">
+<circle cx="16.8549" cy="8.16378" r="2.59078" fill="black"/>
+</g>
+</svg>
